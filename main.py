@@ -1,3 +1,6 @@
+"""
+use the command pip install -r requirements. txt in your terminal
+"""
 from prophet_hypertuning.phypertuning import prophet_hyper_tuning
 from prophet_hypertuning.utils import get_section_by_datetime
 import pandas as pd
